@@ -1,9 +1,23 @@
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Hola Git</title>
-  </head>
-  <body>
-    Hola Git
-  </body>
+
+<head>
+  <?php include("/includes/_head.php"); ?>
+</head>
+
+<body>
+  <?php include("/includes/_header.php"); ?>
+
+  <section>
+
+
+
+
+  </section>
+
+  <footer>
+    <?php include("/includes/_footer.php"); ?>
+    <?php include("/includes/_scripts.php"); ?>
+  </footer>
+</body>
+
 </html>
