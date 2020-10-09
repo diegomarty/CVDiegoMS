@@ -1,2 +1,0 @@
-# CVDiegoMS
-Curriculum Diego
